@@ -1,0 +1,2 @@
+STM32F446xx_RCC_drivers.c:7:10:RCC_GetPCLK1Value	24	static
+STM32F446xx_RCC_drivers.c:48:10:RCC_GetPCLK2Value	24	static

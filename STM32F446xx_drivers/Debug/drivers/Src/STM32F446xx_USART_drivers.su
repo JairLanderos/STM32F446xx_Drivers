@@ -1,0 +1,11 @@
+STM32F446xx_USART_drivers.c:4:6:USART_ClkCtrl	16	static
+STM32F446xx_USART_drivers.c:40:6:USART_PeripheralControl	16	static
+STM32F446xx_USART_drivers.c:51:6:USART_Init	24	static
+STM32F446xx_USART_drivers.c:128:6:USART_SendData	32	static
+STM32F446xx_USART_drivers.c:170:6:USART_ReceiveData	32	static
+STM32F446xx_USART_drivers.c:217:9:USART_SendData_Interrupt	32	static
+STM32F446xx_USART_drivers.c:237:9:USART_ReceiveData_Interrupt	32	static
+STM32F446xx_USART_drivers.c:254:9:USART_GetFlagStatus	16	static
+STM32F446xx_USART_drivers.c:265:6:USART_IRQInterrupConfig	16	static
+STM32F446xx_USART_drivers.c:300:6:USART_IRQPriorityConfig	24	static
+STM32F446xx_USART_drivers.c:309:6:USART_SetBaudRate	40	static

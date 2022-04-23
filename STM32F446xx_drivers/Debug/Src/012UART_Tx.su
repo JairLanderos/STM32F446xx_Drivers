@@ -1,0 +1,5 @@
+012UART_Tx.c:10:6:USART2_Init	8	static
+012UART_Tx.c:22:7:USART2_GPIOInit	24	static
+012UART_Tx.c:44:6:GPIOButton_Init	24	static
+012UART_Tx.c:58:6:delay	16	static
+012UART_Tx.c:64:5:main	8	static
